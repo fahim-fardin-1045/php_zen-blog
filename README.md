@@ -1,7 +1,3 @@
-Perfect! Here’s an **enhanced README** for your ZenBlog project with badges, links, and a cleaner GitHub-style layout:
-
----
-
 # ZenBlog
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.2-blue.svg)](https://www.php.net/)
