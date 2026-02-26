@@ -7,7 +7,11 @@
 **ZenBlog** is a lightweight and user-friendly PHP Content Management System (CMS) designed for bloggers to create, manage, and organize content effortlessly.
 
 ---
-<!-- Uploading "ezgif-4ff25c0e22c14024.gif"... -->
+## Demo
+
+<p align="center">
+  <img src="https://github.com/fahim-fardin-1045/php_zen-blog/raw/main/images/ezgif-4ff25c0e22c14024.gif" alt="ZenBlog Demo" width="700" />
+</p>
 ## 🚀 Features
 
 * Create, edit, and delete blog posts
